@@ -1,0 +1,3 @@
+# typechain
+
+practice with typescript
